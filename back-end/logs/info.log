@@ -1,0 +1,13 @@
+2021/05/27 01:28:12 logger.go:28: LogFile : logs/info.log
+2021/05/27 01:28:12 database.go:18: Intializing DB
+2021/05/27 01:28:12 database.go:52: &{0xc0000c03f0 <nil> 0 0xc000083d40 1}
+2021/05/27 01:28:12 database.go:56: Loading Tables
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.Notification
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.Event
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.EventImages
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.Student
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.User
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.Marks
+2021/05/27 01:28:12 database.go:67:  Table is beign created for database.Calendar
+2021/06/18 20:35:33 loginhandler.go:64: Session Establisted for User :
+2021/06/18 20:35:33 loginhandler.go:65: 1
